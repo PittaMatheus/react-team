@@ -1,0 +1,8 @@
+.container {
+    height: 46px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0 $app-padding;
+    max-width: $container-max-width;
+  }
